@@ -178,6 +178,11 @@ a:focus span {
   text-align: center;
 }
 
+.section.hero {
+  padding-top: 192px;
+  padding-bottom: 192px;
+}
+
 .hero-title {
   margin-top: 0;
   margin-bottom: 48px;
@@ -347,6 +352,8 @@ img {
 .footer {
   background-color: var(--dark-text-color);
   margin-top: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 
@@ -363,8 +370,6 @@ img {
 
 .murcup {
   width: 264px;
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .card-content {
